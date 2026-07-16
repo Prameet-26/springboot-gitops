@@ -1,0 +1,16 @@
+replicaCount: 2
+
+image:
+  repository: prameet26/springboot-cicd
+  tag: latest
+  pullPolicy: Always
+
+service:
+  type: LoadBalancer
+  port: 80
+  targetPort: 8080
+
+containerPort: 8080
+
+app:
+  name: springboot
