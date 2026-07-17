@@ -569,8 +569,6 @@ This GitOps workflow ensures that deployments remain automated, repeatable, and 
 
 The following screenshots capture each major milestone of the deployment process. They provide visual verification of the Kubernetes environment, ArgoCD synchronization, AWS resources, and the running Spring Boot application.
 
-> **Note:** Replace the placeholders below with your uploaded screenshots inside the `screenshots/` directory.
-
 ---
 
 ## 🏗️ Solution Architecture
