@@ -154,7 +154,7 @@ After uploading the architecture diagram, replace the placeholder below.
 screenshots/architecture-diagram.png
 ```
 
-```markdown
+
 <p align="center">
 <img src="screenshots/architecture-diagram.png" width="100%">
 </p>
