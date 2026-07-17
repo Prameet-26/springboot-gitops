@@ -67,7 +67,6 @@ This project reflects modern DevOps practices commonly used in production enviro
 - ⚠️ Challenges Faced
 - 🛠️ Troubleshooting
 - 🚀 Best Practices Followed
-- 🎤 Interview Talking Points
 - 🏆 Skills Demonstrated
 - 🎯 Learning Outcomes
 - 📈 Future Enhancements
@@ -943,27 +942,6 @@ Throughout this project, several industry-standard DevOps and Kubernetes best pr
 - Used declarative Kubernetes manifests instead of manual resource creation.
 - Validated deployments using health checks and application logs.
 - Followed a reproducible deployment workflow suitable for multiple environments.
-
----
-
-# 🎤 Interview Talking Points
-
-This project demonstrates practical experience in designing, deploying, and operating Kubernetes workloads using a GitOps workflow.
-
-Key discussion points for technical interviews include:
-
-- Designing a GitOps deployment workflow using ArgoCD.
-- Deploying applications on Amazon EKS.
-- Running Kubernetes workloads on AWS Fargate.
-- Packaging applications using Helm Charts.
-- Managing Kubernetes Deployments and Services.
-- Using GitHub as the deployment source of truth.
-- Configuring automatic synchronization with ArgoCD.
-- Troubleshooting Kubernetes scheduling issues.
-- Diagnosing networking and LoadBalancer problems.
-- Managing declarative application deployments.
-- Understanding Kubernetes reconciliation concepts.
-- Working with production-style cloud-native deployment practices.
 
 ---
 
