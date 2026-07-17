@@ -137,7 +137,7 @@ The primary objectives of this project are:
 The application deployed in this project uses the following Docker image hosted on Docker Hub:
 
 ```text
-prameet26/springboot-cicd:latest
+prameet26/springboot-cicd
 ```
 
 This image is referenced by the Helm Chart and deployed automatically to Amazon EKS through the GitOps workflow managed by ArgoCD.
@@ -637,17 +637,7 @@ Illustrates the external LoadBalancer created by AWS for public access to the ap
 Demonstrates successful access to the deployed Spring Boot REST endpoint.
 
 ```markdown
-![Spring Boot Application](screenshots/application.png)
-```
-
----
-
-## 📁 GitHub Repository
-
-Shows the GitHub repository used as the GitOps source for ArgoCD synchronization.
-
-```markdown
-![GitHub Repository](screenshots/github-repository.png)
+![Spring Boot Application](screenshots/application-running.png)
 ```
 
 ---
