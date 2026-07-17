@@ -576,9 +576,7 @@ The following screenshots capture each major milestone of the deployment process
 
 ## 🏗️ Solution Architecture
 
-
 ![Solution Architecture](screenshots/architecture-diagram.png)
-```
 
 ---
 
@@ -586,9 +584,7 @@ The following screenshots capture each major milestone of the deployment process
 
 Shows the successfully created Amazon EKS cluster running on AWS.
 
-```markdown
 ![Amazon EKS Cluster](screenshots/eks-cluster.png)
-```
 
 ---
 
@@ -596,9 +592,7 @@ Shows the successfully created Amazon EKS cluster running on AWS.
 
 Displays the GitOps application managed by ArgoCD, including synchronization and health status.
 
-
 ![ArgoCD Dashboard](screenshots/argocd-dashboard.png)
-```
 
 ---
 
@@ -606,9 +600,7 @@ Displays the GitOps application managed by ArgoCD, including synchronization and
 
 Shows the running Spring Boot application pods within the Kubernetes cluster.
 
-```markdown
 ![Kubernetes Pods](screenshots/pods.png)
-```
 
 ---
 
@@ -616,15 +608,13 @@ Shows the running Spring Boot application pods within the Kubernetes cluster.
 
 Displays the Kubernetes Services responsible for exposing the application.
 
-
 ![Kubernetes Services](screenshots/services.png)
-```
 
-
+---
 
 ## ⚖️ AWS LoadBalancer
 
-llustrates the external LoadBalancer created by AWS for public access to the application.
+Illustrates the external LoadBalancer created by AWS for public access to the application.
 
 ![AWS LoadBalancer](screenshots/loadbalancer.png)
 
@@ -634,11 +624,7 @@ llustrates the external LoadBalancer created by AWS for public access to the app
 
 Demonstrates successful access to the deployed Spring Boot REST endpoint.
 
-
 ![Spring Boot Application](screenshots/application-running.png)
-```
-
----
 
 # ✅ Deployment Verification
 
